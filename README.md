@@ -9,13 +9,13 @@ The goal was to transform raw transactional data into **meaningful business insi
 ---
 
 ## 📊 Dashboard Preview
-![Performance Overview](Performance Overview.png)
+![Performance Overview](Performance_Overview.png)
 
-![Customer & Product Insights](Customer & Product Insights.png)
+![Customer & Product Insights](Customer_&_Product_Insights.png)
 
-![Time Intelligence & Sales Behavior](Time Intelligence & Sales Behavior.png)
+![Time Intelligence & Sales Behavior](Time_Intelligence_&_Sales_Behavior.png)
 
-![Profit Intelligence & Cost Control](Profit Intelligence & Cost Control.png)
+![Profit Intelligence & Cost Control](Profit_Intelligence_&_Cost_Control.png)
 
 
 
