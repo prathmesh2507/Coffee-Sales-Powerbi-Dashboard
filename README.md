@@ -1,3 +1,7 @@
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
+![DAX](https://img.shields.io/badge/Language-DAX-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 # ☕ Coffee Shop Sales Dashboard (Power BI)
 
 ## 🚀 Project Overview
